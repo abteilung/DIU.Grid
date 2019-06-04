@@ -8,11 +8,11 @@
             </trans-unit>
             <trans-unit id="properties.desktopLayout.selectBoxEditor.values.0-4-4-4">
                 <source>Equal columns (4-4-4 Cols)</source>
-                <target>Gleiche Spanten (4-4-4)</target>
+                <target>Gleiche Spalten (4-4-4)</target>
             </trans-unit>
             <trans-unit id="properties.tabletLayout.selectBoxEditor.values.0-4-4-4">
                 <source>Equal columns (4-4-4 Cols)</source>
-                <target>Gleiche Spanten (4-4-4)</target>
+                <target>Gleiche Spalten (4-4-4)</target>
             </trans-unit>
         </body>
     </file>
